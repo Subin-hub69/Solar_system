@@ -1,6 +1,7 @@
 Solar System Visualization
 
-A simple and interactive solar system model built using HTML, CSS, and JavaScript, designed to help visualize the planets and their orbits. This project is perfect for beginners learning front-end development.link for the current webpage =
+A simple and interactive solar system model was built using HTML, CSS, and JavaScript to help visualize the planets and their orbits. This project is perfect for beginners learning front-end development. link for the current webpage = 
+https://subin-hub69.github.io/Solar_system/
 
 
 Features
